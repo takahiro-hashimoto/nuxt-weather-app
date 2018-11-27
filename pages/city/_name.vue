@@ -1,6 +1,6 @@
 <template>
 <div>
-  <h1>{{item.name}}の天気</h1>
+  <h1>{{item.name}}の天気情報</h1>
   <ul>
     <li>天気：{{item.weather[0].main}}</li>
     <li>温度：{{item.main.temp}}℃</li>
