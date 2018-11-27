@@ -1,4 +1,4 @@
-# my-first-nuxt-app
+# nuxt-weather-app
 
 > Nuxt.js project
 
